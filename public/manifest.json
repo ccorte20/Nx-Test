@@ -1,0 +1,26 @@
+{
+    "id": "1",
+    "name": "NxCollabs",
+    "short_name": "Nx",
+    "description": "NxCollabs is a platform for better communications",
+    "icons": [
+      {
+        "purpose": "maskable",
+        "sizes": "512x512",
+        "src": "assets/icon512_maskable.png",
+        "type": "image/png"
+      },
+      {
+        "purpose": "any",
+        "sizes": "512x512",
+        "src": "assets/icon512_rounded.png",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#171717",
+    "background_color": "#171717",
+    "start_url": "/",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
